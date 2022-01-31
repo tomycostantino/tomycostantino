@@ -1,6 +1,8 @@
 Hi there 👀
-I'm a software engineering student in Melbourne, Australia.
-My main interests are Artificial Intelligence, Machine Learning, and Financial applications of software.
+
+👨🏻‍💻 I'm a software engineering student in Melbourne, Australia.
+
+🧠 My main interests are Artificial Intelligence, Machine Learning, and Financial applications of software.
 
 CURRENTLY:
 
