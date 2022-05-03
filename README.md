@@ -1,19 +1,16 @@
 Hi there 👀
 
-👨🏻‍💻 I'm a software engineering student in Melbourne, Australia.
+👨🏻‍💻 I'm a software engineering student
 
-🧠 My main interests are Artificial Intelligence, Machine Learning, and Financial applications of software.
+🧠 My main interests are Artificial Intelligence, Machine Learning, and Financial applications
 
-CURRENTLY:
-
-  • 🤖 Working on a crypto trading bot with GUI
-  
-  • 📊 Creating a backtesting module to optimize its performance
-  
-  • 💬 Developing an extractive text summarizer
+Currently
+  • On holidays visiting family
+  • Learning Solidity 🔨
+  • Analysing stock markets and cryptos 📈
   
   
-BIO
+Usully 
 
   • 💡Daily work on own projects and try to freelance to gain experience
   
