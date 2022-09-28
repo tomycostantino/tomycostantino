@@ -3,20 +3,15 @@ Hi there 👀
 👨🏻‍💻 I'm a software engineering student
 
 🧠 My main interests are Artificial Intelligence, Machine Learning, and Financial applications
-
-Currently
-  • On holidays visiting family
-  • Learning Solidity 🔨
-  • Analysing stock markets and cryptos 📈
   
   
-Usully 
+A bit more about me:
 
-  • 💡Daily work on own projects and try to freelance to gain experience
+  • 🐍 Specializing in Python
+  
+  • 💡Daily work on own projects
   
   • ⚙️ I mostly use: .py, .cpp, .ipynb, .h5, .db
-  
-  • 🐍 Specializing in Python
   
   • 📫 Reach me on: https://www.linkedin.com/in/tomas-costantino-9053551ab/
   
